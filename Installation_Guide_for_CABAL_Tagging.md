@@ -13,11 +13,9 @@ This guide provides detailed steps to install and configure the CABAL-Tagging sy
 Once the Git repository is set up, clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/CABAL-Tagging.git
+git clone https://github.com/James5256/CABAL-Tagging.git
 cd CABAL-Tagging
 ```
-
-*Note: Replace `yourusername` with your actual GitHub username and `CABAL-Tagging` with the repository name if different.*
 
 ## Setting Up a Virtual Environment (Recommended)
 
